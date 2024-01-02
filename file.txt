@@ -1,1 +1,6 @@
-Welcome to CLASS
+Welcome to the  GIT class
+
+
+This is Darey.io
+
+We are discuusing git
