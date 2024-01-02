@@ -1,4 +1,4 @@
-Welcome to the  GIT class
+Welcome to Devops
 
 
 This is Darey.io
